@@ -1,4 +1,4 @@
-# plaxa-linux-player-
+# plaxa-TUI-player
 ## this program runs off python and works only with linux terminals...
 
 ### SETUP 
