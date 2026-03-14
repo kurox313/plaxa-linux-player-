@@ -32,7 +32,3 @@ you must be using pipewire and the above installed
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd3e70e0-6def-4d49-b356-20dc3ee30296" />
 
 
-
-# BIG AND IMPORTANT NOTE, this is made with claude 4.6, but i prompted the AI to make this project :p
-
-
