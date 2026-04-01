@@ -19,6 +19,8 @@ Debian/ubuntu/Mint/Pop!_os <br>
 REQUIREMENTS <br>
 you must be using pipewire and the above installed
 
+# side note
+to change the language, its in the advanced option [A+G] use your arrowkeys to navigate
 
 # PREVIEW
 ## player
